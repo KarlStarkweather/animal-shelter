@@ -1,0 +1,7 @@
+.column {
+  float: left;
+  width: 30%;
+  text-align: center;
+  box-sizing: border-box;
+}
+
