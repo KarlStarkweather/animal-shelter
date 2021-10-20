@@ -5,3 +5,11 @@
   box-sizing: border-box;
 }
 
+.happy {
+  font-style: oblique;
+  color: blueviolet;
+}
+
+.happy p {
+  color: brown;
+}
