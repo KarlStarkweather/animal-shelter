@@ -2,7 +2,14 @@
   float: left;
   width: 30%;
   text-align: center;
+  border: 10px;
+  
+  /* border-style: solid; */
+  border-color: chocolate;
+  padding: 5px;
   box-sizing: border-box;
+  background-color: chartreuse;
+  margin: 10px;
 }
 
 .happy {
